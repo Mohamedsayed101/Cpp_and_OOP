@@ -1,2 +1,0 @@
-TO solve Git Error | GitHub Error: failed to push some refs to '[REPO URL]' 
-git pull --rebase origin master 
