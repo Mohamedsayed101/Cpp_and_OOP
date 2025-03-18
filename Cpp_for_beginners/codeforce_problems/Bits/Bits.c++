@@ -1,3 +1,6 @@
+/*
+    عندى string هشوف ال x النهائية بكام علما ان ال x = الابتدائية ب 0
+*/
 #include <iostream>
 using namespace std;
 int main() {
